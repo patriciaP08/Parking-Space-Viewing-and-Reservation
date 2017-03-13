@@ -1,0 +1,5 @@
+Functional Requirements
+The system should have an updated data of the parking space of the mall.
+The system should reserve the parking space in a certain mall if the user commanded to and if the space is available.
+The system should calculate the travel time from the user’s location to the mall.
+The system should cancel the reservation if the customer did not arrive an hour after the reservation time. 

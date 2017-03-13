@@ -1,0 +1,5 @@
+Non-functional requirements
+The system monitors the parking space in real time.
+The system enables the user to reserve available parking spaces.
+The system allots time to the user when it arrives. 
+The system automatically cancels the reservation of the customer when it exceeds in the allotted time.
